@@ -1,0 +1,16 @@
+Day,Item,Category,Price,Quantity_Sold,Revenue
+1,Burger,Main Course,80,25,2000
+2,Pizza,Main Course,120,18,2160
+3,Pasta,Main Course,90,20,1800
+4,Cola,Beverages,25,40,1000
+5,Coffee,Beverages,35,30,1050
+6,Cake,Dessert,50,15,750
+7,Burger,Main Course,80,28,2240
+8,Pizza,Main Course,120,20,2400
+9,Pasta,Main Course,90,22,1980
+10,Cola,Beverages,25,45,1125
+11,Coffee,Beverages,35,32,1120
+12,Cake,Dessert,50,18,900
+13,Burger,Main Course,80,30,2400
+14,Pizza,Main Course,120,22,2640
+15,Pasta,Main Course,90,25,2250
