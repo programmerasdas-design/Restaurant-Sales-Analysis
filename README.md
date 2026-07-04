@@ -1,0 +1,1 @@
+A simple restaurant sales analysis project using Python, Pandas, and Matplotlib. It analyzes revenue, products, categories, and the relationship between price and quantity sold using data visualizations.
